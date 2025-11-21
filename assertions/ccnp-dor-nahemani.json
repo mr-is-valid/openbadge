@@ -1,0 +1,23 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "type": "Assertion",
+  "id": "https://mr-is-valid.github.io/openbadge/assertions/ccnp-dor-nahemani.json",
+  "recipient": {
+    "type": "email",
+    "hashed": true,
+    "identity": "sha256$11d05547a8244efa0e64275f34da2db4bdba7ffbd80f831ba4e7ac16fc2cead3"
+  },
+  "issuedOn": "2025-11-21T14:56:02Z",
+  "badge": "https://mr-is-valid.github.io/openbadge/badges/ccnp-enterprise.json",
+  "evidence": [
+    {
+      "id": "https://mr-is-valid.github.io/openbadge/evidence/dor-nahemani-project.html",
+      "name": "CCNP Enterprise Capstone Project",
+      "narrative": "Portfolio of network design documents and simulation results."
+    }
+  ],
+  "verification": {
+    "type": "HostedBadge",
+    "url": "https://mr-is-valid.github.io/openbadge/assertions/ccnp-dor-nahemani.json"
+  }
+}
