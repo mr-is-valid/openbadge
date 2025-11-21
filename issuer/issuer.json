@@ -1,9 +1,9 @@
 {
   "@context": "https://w3id.org/openbadges/v2",
   "type": "Issuer",
-  "id": "https://mr-is-valid.github.io/openbadge/issuer/issuer.json",
+  "id": "https://mr-is-valid.github/openbadge/issuer/issuer.json",
   "name": "Professional Certification Board",
-  "url": "https://mr-is-valid.github.io/openbadge",
+  "url": "https://mr-is-valid.github/openbadge",
   "email": "credentials@example.org",
-  "image": "https://mr-is-valid.github.io/openbadge/assets/issuer-logo.png"
+  "image": "https://mr-is-valid.github/openbadge/assets/issuer-logo.png"
 }
