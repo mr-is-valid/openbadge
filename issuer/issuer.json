@@ -2,8 +2,8 @@
   "@context": "https://w3id.org/openbadges/v2",
   "type": "Issuer",
   "id": "https://mr-is-valid.github/openbadge/issuer/issuer.json",
-  "name": "Professional Certification Board",
-  "url": "https://mr-is-valid.github/openbadge",
-  "email": "credentials@example.org",
+  "name": "Microsoft",
+  "url": "https://www.microsoft.com/learning",
+  "email": "support@microsoft.com",
   "image": "https://mr-is-valid.github/openbadge/assets/issuer-logo.png"
 }

@@ -2,12 +2,12 @@
   "@context": "https://w3id.org/openbadges/v2",
   "type": "BadgeClass",
   "id": "https://mr-is-valid.github/openbadge/badges/ccnp-enterprise.json",
-  "name": "Cisco Certified Network Professional Enterprise (CCNP Enterprise)",
-  "description": "Awarded to individuals who demonstrate professional expertise in enterprise networking and pass the required Core and Concentration exams.",
+  "name": "Microsoft Certified: Azure Networking Expert",
+  "description": "Awarded for demonstrating professional expertise in Azure networking.",
   "image": "https://mr-is-valid.github/openbadge/assets/ccnp_badge.png",
   "criteria": {
     "id": "https://mr-is-valid.github/openbadge/criteria/ccnp-full.html",
-    "narrative": "Passed 350-401 ENCOR and a concentration exam such as 300-410 ENARSI."
+    "narrative": "Passed relevant Microsoft Azure networking exams."
   },
   "issuer": "https://mr-is-valid.github/openbadge/issuer/issuer.json"
 }
